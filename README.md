@@ -2,25 +2,23 @@
 
 <p>Clemon | Personal Portfolio Web Tempalte is for many purpose like minimal portfolios, agencies, personal portfolio, photography, freelancer portfolios etc. Users will love Your site because it gives them a unique user experience (UX). All components are well organized and named accordingly so its very easy to change any and all of the design.</p>
 
-<!--<p>proBurg | Restaurant Web Tempalte for Cafe & Restaurant, Bars, Bistros, Pizza Shop, Seafood and any food related business websites This template comes with necessary features for your online presence. Earls can be a great choice for your online presence. Looking to release your company website Earls is the best choice.</p>-->
-
 <p>In order to edit the file, you need to have Code Writer program installed on your system. Just open files in code writer and edit them.</p>
 
 ## Features Overview
 
-#### Bootsrap Framework:
+### 👉Bootsrap Framework:
 <p>Bootsrap is the most popular css framework for Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins. </p>
     
-#### Responsive Layout Design:
+### 👉Responsive Layout Design:
 <p>What ever you are using the device your site will run as it should be. Appz React template is fully responsive layout for all type of devices.</p>
     
-#### Valid components :
+### 👉Valid components :
 <p>This template coded with beautiful and clean codes! with some powerful components 100% valid W3 web standards.</p>
     
-#### Lucrative Design :
+### 👉Lucrative Design :
 <p>This Template is designed for any exclusive portfolio website. Which can be motivated your customers to dive in your website.</p>
 
-#### SASS and LESS :
+### 👉SASS and LESS :
 <p>SASS and LESS are supposedly extensions of CSS or preprocessors. A preprocessor is a scripting language that extends CSS and then compiles it back to regular CSS. They can be said as programming languages that are designed for better maintenance, themes, and extendibility. SASS stands for Syntactically Awesome Stylesheets (SASS), and LESS stands for Leaner CSS (LESS). SASS is based on Ruby, while LESS uses JavaScript. Also, LESS gives users a chance to activate mixins when certain situations occur. On the other hand, SASS provides loops and case distinctions that are known to most programming languages.</p>
     
     
