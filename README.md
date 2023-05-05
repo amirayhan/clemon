@@ -1,4 +1,4 @@
-## Clemon | Personal Portfolio Web Tempalte<a href="https://amirayhan.github.io/clemon/" target="_blank">Live Preview</a>
+## Clemon | Personal Portfolio Web Template <a href="https://amirayhan.github.io/clemon/" target="_blank">Live Preview</a>
 
 <p>Clemon | Personal Portfolio Web Tempalte is for many purpose like minimal portfolios, agencies, personal portfolio, photography, freelancer portfolios etc. Users will love Your site because it gives them a unique user experience (UX). All components are well organized and named accordingly so its very easy to change any and all of the design.</p>
 
